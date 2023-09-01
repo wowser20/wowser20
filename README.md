@@ -1,4 +1,4 @@
-I'm Andrea Ella Remoreras, currently an undergraduate student major in Computer Science.
+I'm Andrea Ella Remoreras, an aspiring Frontend Developer/Fullstack Developer.
 
 - I know Java, SQL, C#, Python, HTML, CSS, PHP, and Javascript.
 - I’m interested in learning more programming languages and web frameworks
