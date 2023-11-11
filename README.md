@@ -27,8 +27,6 @@ API Development
 
 
 
-
-
 Other Tech Stack
 
 ![tech stack](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
@@ -48,6 +46,9 @@ Other Tech Stack
 
 
 ![tech stack](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+
+
+How to reach me 📫: ae.remoreras@gmail.com
 
 
 
