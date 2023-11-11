@@ -48,7 +48,6 @@ Other Tech Stack
 
 
 
-![tech stack](https://img.shields.io/badge/shopify-8DB543?style=for-the-badge&logo=Shopify&logoColor=white)
 ![tech stack](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 
 
