@@ -19,4 +19,3 @@ Development
 
 
 
-![tech stack](https://github-readme-stats.vercel.app/api/top-langs/?username=wowser20&theme=white)
