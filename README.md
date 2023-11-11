@@ -1,6 +1,8 @@
 **Hi!👋🏻 I'm Andrea Ella Remoreras a Backend Developer at Nuxify**
 
- # [![homepage](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andrea-ella-remoreras-759a051b9/)
+**How to reach me 📩: ae.remoreras@gmail.com**
+# [![homepage](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andrea-ella-remoreras-759a051b9/)
+
 
 Development Environment
 
@@ -37,7 +39,7 @@ Other Tech Stack
 
 ![tech stack](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 
-How to reach me 📫: ae.remoreras@gmail.com
+
 
 
 
