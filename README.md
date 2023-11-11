@@ -1,6 +1,5 @@
 ![header (1)](https://github.com/wowser20/wowser20/assets/100786249/056b2e97-1f46-402e-96c7-efaf0aa59a70)
-
- [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/andrea-ella-remoreras-759a051b9/)
+[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/andrea-ella-remoreras-759a051b9/)
 
 Work Space Specs
 
