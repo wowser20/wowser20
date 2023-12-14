@@ -11,7 +11,6 @@
 
 [![homepage](https://img.shields.io/badge/ae.remoreras@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ae.remoreras@gmail.com)
 
-
 ---
 
 
