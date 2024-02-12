@@ -2,6 +2,7 @@
 
 ---
 
+
 **Socials:**
 
 [![homepage](https://img.shields.io/badge/AndreaElla-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andrea-ella-remoreras-759a051b9/)
