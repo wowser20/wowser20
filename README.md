@@ -1,4 +1,4 @@
-### **Hi!👋🏻 I'm Andrea Ella Remoreras a Backend Developer at Nuxify**
+### **Hi!👋🏻 I'm Andrea Ella Remoreras I create API's**
 
 ---
 
