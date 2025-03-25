@@ -1,4 +1,4 @@
-### **Hi!👋🏻 I'm Andrea Ella Remoreras I create API's**
+### **Hi!👋🏻 I'm Andrea Ella Remoreras**
 
 ---
 
