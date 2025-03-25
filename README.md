@@ -1,5 +1,3 @@
-### **Hi!👋🏻 I'm Andrea Ella Remoreras**
-
 ---
 
 **Socials:**
