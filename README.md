@@ -44,6 +44,9 @@
 ![tech stack](https://img.shields.io/badge/Java-D00000?style=for-the-badge&logoColor=white)
 ![tech stack](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 
+## GitHub Stats
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=wowser20&theme=merko)
+
 
 
 
